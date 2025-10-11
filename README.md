@@ -10,5 +10,5 @@ Xin chào!
 
 -\*\*Họ và tên:\*\* Lu Bao Vy
 
--\*\*Mã số sinh viên:\*\*24S1020088
+-\*\*Mã số sinh viên:\*\* 24S1020088
 
